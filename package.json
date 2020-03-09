@@ -1,8 +1,8 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://sardukarsilver.github.io/sandbox-simple-react-crud-with-redux/",
   "private": true,
+  "homepage": "https://sardukarsilver.github.io/sandbox-simple-react-crud-with-redux/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "history": "^4.10.1",
