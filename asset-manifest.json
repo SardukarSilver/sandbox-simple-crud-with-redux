@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sandbox-simple-react-crud-with-redux/static/css/main.b8a51f01.chunk.css",
-    "main.js": "/sandbox-simple-react-crud-with-redux/static/js/main.e93b3803.chunk.js",
-    "main.js.map": "/sandbox-simple-react-crud-with-redux/static/js/main.e93b3803.chunk.js.map",
+    "main.js": "/sandbox-simple-react-crud-with-redux/static/js/main.d220a321.chunk.js",
+    "main.js.map": "/sandbox-simple-react-crud-with-redux/static/js/main.d220a321.chunk.js.map",
     "runtime-main.js": "/sandbox-simple-react-crud-with-redux/static/js/runtime-main.a9cf0b02.js",
     "runtime-main.js.map": "/sandbox-simple-react-crud-with-redux/static/js/runtime-main.a9cf0b02.js.map",
     "static/js/2.4c86209c.chunk.js": "/sandbox-simple-react-crud-with-redux/static/js/2.4c86209c.chunk.js",
     "static/js/2.4c86209c.chunk.js.map": "/sandbox-simple-react-crud-with-redux/static/js/2.4c86209c.chunk.js.map",
     "index.html": "/sandbox-simple-react-crud-with-redux/index.html",
-    "precache-manifest.8c60c68c0df9f6c8555cd36a7ca5ad60.js": "/sandbox-simple-react-crud-with-redux/precache-manifest.8c60c68c0df9f6c8555cd36a7ca5ad60.js",
+    "precache-manifest.0cea2e7a22d9add1ebaded5db5f73327.js": "/sandbox-simple-react-crud-with-redux/precache-manifest.0cea2e7a22d9add1ebaded5db5f73327.js",
     "service-worker.js": "/sandbox-simple-react-crud-with-redux/service-worker.js",
     "static/css/main.b8a51f01.chunk.css.map": "/sandbox-simple-react-crud-with-redux/static/css/main.b8a51f01.chunk.css.map",
     "static/js/2.4c86209c.chunk.js.LICENSE.txt": "/sandbox-simple-react-crud-with-redux/static/js/2.4c86209c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a9cf0b02.js",
     "static/js/2.4c86209c.chunk.js",
     "static/css/main.b8a51f01.chunk.css",
-    "static/js/main.e93b3803.chunk.js"
+    "static/js/main.d220a321.chunk.js"
   ]
 }
